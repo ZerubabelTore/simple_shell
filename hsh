@@ -1,1 +1,2 @@
-C -o hsh 
+#!/bin/bash
+c -o hsh 
